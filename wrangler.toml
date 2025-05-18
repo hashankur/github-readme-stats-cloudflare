@@ -1,0 +1,6 @@
+name = "github-readme-stats-cloudflare"
+main = "cloudflare/index.js"
+compatibility_date = "2025-05-05"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
